@@ -31,11 +31,6 @@ Hi there! I'm a passionate and dedicated software developer with expertise in a 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wizaardd&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizaardd&layout=compact&theme=radical)
 
----
-
-## 📫 How to Reach Me
-
-- **Email**: [your-email@example.com](hakan.colak1561@gmail.com)
 
 ---
 
